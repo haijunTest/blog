@@ -1,0 +1,11 @@
+server:
+  port: 8088
+spring:
+  profiles:
+    active: dev
+    include:
+    - swagger
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp

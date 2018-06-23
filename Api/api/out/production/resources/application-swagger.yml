@@ -1,0 +1,12 @@
+swagger:
+  default-include-pattern:
+    - /api/.*
+  title: Haijun Online Service Platform API
+  description: Haijun Online Service Platform API documentation --- Everbright Haijun Internet Co., Inc
+  version: 0.0.1
+  terms-of-service-url:
+  contact-name:
+  contact-url:
+  contact-email:
+  license:
+  license-url:
